@@ -19,7 +19,7 @@
 
 # 👋 Hello, I'm Soumajit
 
-### Professional Profile
+# Professional Profile
 
 Passionate Data Science and Machine Learning Enthusiast with a strong focus on engineering intelligent applications and solving complex, real-world challenges through data-driven approaches.
 
@@ -32,7 +32,7 @@ Passionate Data Science and Machine Learning Enthusiast with a strong focus on e
 
 ---
 
-### About Me
+# About Me
 
 A dedicated Python Developer and aspiring Data Scientist with a strong passion for building real-world applications and exploring the open-source ecosystem. I focus on transforming data into structured insights through analytics and machine learning methodologies.
 
