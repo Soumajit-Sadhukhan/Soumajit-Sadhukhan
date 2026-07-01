@@ -5,7 +5,7 @@
 </p>
 
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=00FF87&center=true&vCenter=true&random=false&width=800&lines=Data+Science+Enthusiast;Machine+Learning+Learner;Python+Developer;Django+Developer;SQL+%7C+Pandas+%7C+NumPy;Open+Source+Learner"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&random=false&width=800&lines=Data+Science+Enthusiast;Machine+Learning+Learner;Python+Developer;Django+Developer;SQL+%7C+Pandas+%7C+NumPy;Open+Source+Learner"/>
 
 <br>
 
