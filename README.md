@@ -42,8 +42,8 @@ A dedicated Python Developer and aspiring Data Scientist with a strong passion f
 * Data Analytics and performance benchmarking
 * Engineering functional, end-to-end projects
 
-  <p align="right">
-  <img src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" width="150" align="right" style="margin-right: 40px;" />
+<p align="left">
+  <img src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" width="50%" align="right" style="margin-left: 77px;" />
 </p>
 <br clear="right"/>
 
