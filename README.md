@@ -19,16 +19,16 @@
 
 # 👋 Hello, I'm Soumajit
 
-I'm a passionate **Data Science and Machine Learning Enthusiast** who enjoys building intelligent applications and solving real-world problems using data.
+### Professional Profile
 
-Currently focusing on:
+Passionate Data Science and Machine Learning Enthusiast with a strong focus on engineering intelligent applications and solving complex, real-world challenges through data-driven approaches.
 
-- 📊 Data Analytics
-- 🤖 Machine Learning
-- 🐍 Python
-- 🌐 Django
-- 🗄 SQL
-- 📈 Data Visualization
+**Core Areas of Focus:**
+* Data Analytics and Optimization
+* Machine Learning Concepts and Modeling
+* Python and Backend Development (Django)
+* Structured Query Language (SQL)
+* Advanced Data Visualization
 
 ---
 
