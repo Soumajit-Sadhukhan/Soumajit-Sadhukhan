@@ -3,6 +3,9 @@
 <p align="center">
   <img src="/baner.jpg" alt="Soumajit Sadhukhan Banner" width="100%">
 </p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Soumajit-Sadhukhan&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=00C6FF&center=true&vCenter=true&random=false&width=800&lines=Data+Science+Enthusiast;Machine+Learning+Learner;Python+Developer;Django+Developer;SQL+%7C+Pandas+%7C+NumPy;Open+Source+Learner"/>
 
