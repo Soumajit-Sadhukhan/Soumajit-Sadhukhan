@@ -84,13 +84,9 @@ A dedicated Python Developer and aspiring Data Scientist with a strong passion f
 
 # ⚡ Currently Learning
 
-- Machine Learning
-- Data Visualization
-- Feature Engineering
-- Model Deployment
-- Django REST API
-- FastAPI
-- Docker
+* **Data Science & Analytics:** Machine Learning, Feature Engineering, Data Visualization
+* **Backend & API Development:** Django REST API, FastAPI
+* **DevOps & Deployment:** Docker, Model Deployment
 
 ---
 <p align="center">
