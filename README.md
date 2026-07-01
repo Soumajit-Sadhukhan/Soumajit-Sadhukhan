@@ -42,12 +42,10 @@ A dedicated Python Developer and aspiring Data Scientist with a strong passion f
 * Data Analytics and performance benchmarking
 * Engineering functional, end-to-end projects
 
-  <p align="left">
+  <p align="right">
   <img src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" width="80" align="left" style="margin-right: 15px;" />
-  <strong>Technical Expertise & Core Focus</strong><br>
-  Actively building real-world projects, deploying Machine Learning models, and developing high-performance APIs with Django REST Framework and FastAPI. Focused on end-to-end data pipelines.
 </p>
-<br clear="left"/>
+<br clear="right"/>
 
 ---
 
