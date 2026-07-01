@@ -90,8 +90,13 @@ Currently focusing on:
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,django,html,css,js,react,nodejs,mysql,postgresql,mongodb,git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i="/>
 
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,django,html,css,js,tailwind,react,nodejs,mysql,postgresql,mongodb,git,github,vscode,docker,c" />
+  </a>
 </p>
 
 ---
