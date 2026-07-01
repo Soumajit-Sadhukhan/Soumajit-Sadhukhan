@@ -10,7 +10,7 @@
 <br>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Soumajit-Sadhukhan&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Soumajit-Sadhukhan&theme=tokyonight" width="100%" />
 </p>
 
 </div>
