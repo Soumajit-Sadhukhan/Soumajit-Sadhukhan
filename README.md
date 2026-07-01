@@ -52,9 +52,6 @@ Passionate Data Science and Machine Learning Enthusiast with a strong focus on e
 # 💻 Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i="/>
-
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
