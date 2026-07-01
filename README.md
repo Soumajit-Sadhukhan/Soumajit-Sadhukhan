@@ -144,3 +144,8 @@ Currently focusing on:
 
 
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Soumajit-Sadhukhan/Soumajit-Sadhukhan/output/github-snake-dark.svg" alt="GitHub Snake Animation" width="100%" />
+</p>
+
+
