@@ -104,10 +104,10 @@ Passionate Data Science and Machine Learning Enthusiast with a strong focus on e
 
 * **Docker** 
 ---
-# 💻 Top Languages
+## 💻 Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soumajit-Sadhukhan&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Soumajit-Sadhukhan&theme=tokyonight" width="400" />
 </p>
 
 ---
