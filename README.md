@@ -58,7 +58,7 @@ Passionate Data Science and Machine Learning Enthusiast with a strong focus on e
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,django,html,css,js,tailwind,react,nodejs,mysql,postgresql,mongodb,git,github,vscode,docker,c" />
+    <img src="https://skillicons.dev/icons?i=python,django,html,css,js,bootstrap,tailwind,react,nodejs,mysql,postgresql,mongodb,git,github,vscode,docker,c" />
   </a>
 </p>
 
