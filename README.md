@@ -35,7 +35,7 @@ Passionate Data Science and Machine Learning Enthusiast with a strong focus on e
 # About Me
 
 <p align="left">
-  <img src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" width="120" align="right" style="margin-left: 20px;" />
+  <img src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" width="50%" align="right" style="margin-left: 77px;" />
   A dedicated Python Developer and aspiring Data Scientist with a strong passion for building real-world applications and exploring the open-source ecosystem. I focus on transforming data into structured insights through analytics and machine learning methodologies.
 </p>
 
