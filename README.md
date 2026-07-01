@@ -120,13 +120,11 @@ Currently focusing on:
 # ⚡ Currently Learning
 
 - Machine Learning
-- Deep Learning
 - Data Visualization
 - Feature Engineering
 - Model Deployment
 - Django REST API
 - FastAPI
 - Docker
-- AWS
 
 ---
