@@ -32,60 +32,15 @@ Passionate Data Science and Machine Learning Enthusiast with a strong focus on e
 
 ---
 
-# 🚀 About Me
+### About Me
 
-<table>
+A dedicated Python Developer and aspiring Data Scientist with a strong passion for building real-world applications and exploring the open-source ecosystem. I focus on transforming data into structured insights through analytics and machine learning methodologies.
 
-<tr>
-
-<td>
-
-🎓 BCA Student
-
-</td>
-
-<td>
-
-📚 Learning Data Science & Machine Learning
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-💻 Python Developer
-
-</td>
-
-<td>
-
-🌍 Open Source Learner
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-📊 Interested in Data Analytics
-
-</td>
-
-<td>
-
-🚀 Building Real Projects
-
-</td>
-
-</tr>
-
-</table>
-
+**Areas of Activity & Interest:**
+* Academic and practical learning in Data Science and Machine Learning
+* Core Python development and open-source contribution
+* Data Analytics and performance benchmarking
+* Engineering functional, end-to-end projects
 ---
 
 # 💻 Tech Stack
