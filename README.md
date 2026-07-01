@@ -9,7 +9,9 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Soumajit-Sadhukhan&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+</p>
 
 </div>
 
