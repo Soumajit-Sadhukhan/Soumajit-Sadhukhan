@@ -10,7 +10,7 @@
 <br>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Soumajit-Sadhukhan&theme=tokyonight" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=60&section=header" width="100%" />
 </p>
 
 </div>
@@ -138,4 +138,6 @@ Currently focusing on:
 - Docker
 
 ---
-https://github-readme-streak-stats.herokuapp.com/?user=Soumajit-Sadhukhan&theme=tokyonight&hide_border=true
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Soumajit-Sadhukhan&theme=tokyonight" width="100%" />
+</p>
