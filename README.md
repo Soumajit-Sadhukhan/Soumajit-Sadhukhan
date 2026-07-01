@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0059ff,100:00C6FF&height=250&section=header&text=Soumajit%20Sadhukhan&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
+
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=00C6FF&center=true&vCenter=true&random=false&width=800&lines=Data+Science+Enthusiast;Machine+Learning+Learner;Python+Developer;Django+Developer;SQL+%7C+Pandas+%7C+NumPy;Open+Source+Learner"/>
 
