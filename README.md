@@ -87,7 +87,7 @@ Currently focusing on:
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,html,css,js,react,nodejs,mysql,postgresql,mongodb,git,github,vscode,linux"/>
+<img src="https://skillicons.dev/icons?i=python,django,html,css,js,react,nodejs,mysql,postgresql,mongodb,git,github,vscode"/>
 
 </p>
 
