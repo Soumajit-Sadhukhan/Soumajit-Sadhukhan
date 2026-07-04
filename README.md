@@ -52,12 +52,22 @@ Passionate Data Science and Machine Learning Enthusiast with a strong focus on e
 # 💻 Tech Stack
 
 <p align="center">
-</p>
-<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,django,n8n,html,css,js,bootstrap,tailwind,react,nodejs,mysql,postgresql,mongodb,git,github,vscode,docker,c" />
+    <img src="https://skillicons.dev/icons?i=python,django,html,css,js,bootstrap,tailwind,react,nodejs,mysql,postgresql,mongodb,git,github,vscode,docker,c" />
   </a>
+
+  &nbsp;
+
+  <img
+    src="https://wpforms.com/wp-content/uploads/2025/11/n8n-icon.png"
+    alt="n8n"
+    width="48"
+    height="48"
+    style="vertical-align: middle;"
+  />
 </p>
+
+
 
 ---
 
