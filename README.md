@@ -57,13 +57,10 @@ Passionate Data Science and Machine Learning Enthusiast with a strong focus on e
     alt="n8n"
     width="48"
     height="48"
-    style="vertical-align: middle;"
-  />
+    style="vertical-align: middle;" />
   </a>
 
   
-
- 
 </p>
 
 
